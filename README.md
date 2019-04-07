@@ -28,4 +28,7 @@ For more feature please see the E-R Diagram of the project
 
 The other two contributers of project are : **Sumit Kumar and Vivek Singh Rana**
 
-
+ctrip = test1234
+database = test1234
+login uid = test1234
+login pwd = test1234
